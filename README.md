@@ -7,7 +7,7 @@ You will be able to see RTLButton right in Xcode IB:
 
 ## Usage
 
-Right now CocoaPods solution not works properly because of Xcdoe bug:
+Right now CocoaPods solution not works properly because of Xcode bug:
 
 ```
 pod 'RTLButton'
