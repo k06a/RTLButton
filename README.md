@@ -3,7 +3,7 @@ UIButton subclass with image and title aligned Right To Left
 
 You will be able to see RTLButton right in Xcode IB:
 
-<img src="https://raw.github.com/k06a/RTLButton/master/screenshot.png" width="30%" />
+<img src="https://raw.github.com/k06a/RTLButton/master/screenshot.png" />
 
 ## Usage
 
